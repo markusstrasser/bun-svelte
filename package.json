@@ -1,0 +1,19 @@
+{
+  "name": "midnight",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun run index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "bun-plugin-svelte": "^0.0.5",
+    "svelte": "^5.23.0"
+  }
+}
