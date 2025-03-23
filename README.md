@@ -1,4 +1,4 @@
-# midnight
+# bun-svelte
 
 To install dependencies:
 
