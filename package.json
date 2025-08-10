@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@anywidget/svelte": "^0.1.0",
+    "bun-plugin-svelte": "^0.0.6",
+    "svelte": "^5.38.0"
+  },
+  "devDependencies": {
+    "rolldown": "^1.0.0-beta.31",
+    "rollup-plugin-svelte": "^7.2.2"
+  }
+}
